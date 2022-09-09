@@ -13,7 +13,7 @@
     a daily calendar app using html, css, javascript, jquery, bootstrap, moment js with some custom fonts and icons thrown in.
     <br />
     <br />
-    <a href="https://conradjohnson.github.io/m5-challenge">View Demo</a>
+    <a href="https://conradjohnson.github.io/m5-challenge" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/conradjohnson/m5-challenge/issues">Report Bug</a>
     ·

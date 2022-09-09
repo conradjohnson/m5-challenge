@@ -7,7 +7,7 @@
 <div align="center">
   
 
-<h3 align="center">M4 Challenge</h3>
+<h3 align="center">M5 Challenge</h3>
 
   <p align="center">
     a quiz for students using html, css and javascript to manipulate the DOM

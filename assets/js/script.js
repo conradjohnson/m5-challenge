@@ -85,7 +85,7 @@
     let hourToSave = $(event.target).parent().attr("data-hour");
     let description = $(event.target).siblings("textarea").val();
     
-    // alternative ways to pull these elements/values
+    // alternative ways to pull these elements/values:
     // let hourToSave = event.target.parentElement.getAttribute("data-hour");
     // let description = event.target.parentElement.querySelector('textarea').value;
     

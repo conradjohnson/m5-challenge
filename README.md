@@ -10,7 +10,7 @@
 <h3 align="center">M5 Challenge</h3>
 
   <p align="center">
-    a quiz for students using html, css and javascript to manipulate the DOM
+    a daily calendar app using html, css, javascript, jquery, bootstrap, moment js with some custom fonts and icons thrown in.
     <br />
     <br />
     <a href="https://conradjohnson.github.io/m5-challenge">View Demo</a>
